@@ -1,0 +1,5 @@
+{
+  "name": "Golden 3D Christmas Tree",
+  "description": "A high-performance, interactive 3D Christmas tree using React Three Fiber and InstancedMesh. Features geometric stacking, PBR materials, bloom effects, and morphing animations between tree, explosion, and text states.",
+  "requestFramePermissions": []
+}
